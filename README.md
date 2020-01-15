@@ -16,7 +16,14 @@ Kelas : Ti.19.A.3
 ![screenshot](https://user-images.githubusercontent.com/59908000/72411596-d91a6400-379d-11ea-8780-60b38e7db12e.png)
 
 
-Penjelasan :
+Penjelasan : Matriks adalah jajaran bilangan-bilangan berbentuk persegi panjang atau persegi tersusun dalam baris dan kolom terletak di dalam kurung biasa (   ) atau kurung siku [   ].
+
+Bilangan di dalam kurung dinamakan elemen dari matriks. Elemen horisontal dinamakan baris dan elemen vertikal dinamakan kolom.
+
+Suatu matriks diberi lambang dengan huruf kapital, seperti A, B, dan seterusnya.
+
+Elemen-elemen matriks diberi lambang dengan huruf kecil berindeks, yaitu aij dengan 1 ≤ i ≤ m, 1 ≤ j ≤ n, serta m dan n menyatakan banyaknya baris dan banyaknya kolom.
+
 
 
 2.Flowchart
